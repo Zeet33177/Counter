@@ -14,7 +14,6 @@ justify-content: center;
 align-items: center;
 }
 .card{
-  overflow-x: scroll;
   padding: 10px;
   gap:5px;
   display: flex;
@@ -27,7 +26,7 @@ align-items: center;
   background-color: #0F2027;
   height: 80%; 
   max-height: 350px;
-  width: 30%;
+  width: 200px;
   border-radius: 10px;
 }
 h2{
